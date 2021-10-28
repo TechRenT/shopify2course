@@ -17,7 +17,8 @@
             "type": "announcement",
             "settings": {
               "text": "50% OFF For July 4th",
-              "color_scheme": "background-1",
+              "background_color": "#4a831e",
+              "announcement_text_color": "#ba3f3f",
               "link": "shopify:\/\/collections\/adidas"
             }
           }
@@ -94,7 +95,6 @@
             "announcement-bar-0": {
               "type": "announcement",
               "settings": {
-                "color_scheme": "background-1"
               }
             }
           },
