@@ -47,18 +47,10 @@
               "heading": "Quick links",
               "menu": "footer"
             }
-          },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1"
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "background-1",
@@ -122,16 +114,10 @@
               "type": "link_list",
               "settings": {
               }
-            },
-            "text": {
-              "type": "text",
-              "settings": {
-              }
             }
           },
           "block_order": [
-            "menu",
-            "text"
+            "menu"
           ],
           "settings": {
             "color_scheme": "accent-1"
