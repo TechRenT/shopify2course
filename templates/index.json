@@ -178,6 +178,24 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "16475009699c5abbbd": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "nike",
+        "total_products": 12,
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-3",
+        "sm_col": "col-sm-6"
+      }
     }
   },
   "order": [
@@ -186,6 +204,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "16475009699c5abbbd"
   ]
 }
